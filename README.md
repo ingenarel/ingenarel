@@ -1,5 +1,8 @@
 # Ingenarel
 
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC90Tar8Bpx3Q8UqpM8qxWZw?style=for-the-badge&link=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUC90Tar8Bpx3Q8UqpM8qxWZw%3Fsub_confirmation%3D1)
+
+
 Hey
 
 I'm ingenarel
