@@ -13,6 +13,7 @@
       <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UC90Tar8Bpx3Q8UqpM8qxWZw?style=for-the-badge"/></a>
   <a href="https://www.youtube.com/channel/UC90Tar8Bpx3Q8UqpM8qxWZw?sub_confirmation=1">
       <img alt="youtube views" title="YouTube views" src="https://img.shields.io/youtube/channel/views/UC90Tar8Bpx3Q8UqpM8qxWZw?style=for-the-badge"/></a> 
+  
   <!-- BEGIN YOUTUBE-CARDS -->
 [![split it logo #splitit #blender #sheepit #render #blenderanimation #animation #hardsurface #art](https://ytcards.demolab.com/?id=YEf1E0bYkYs&title=split+it+logo+%23splitit+%23blender+%23sheepit+%23render+%23blenderanimation+%23animation+%23hardsurface+%23art&lang=en&timestamp=1711859773&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "split it logo #splitit #blender #sheepit #render #blenderanimation #animation #hardsurface #art")](https://www.youtube.com/watch?v=YEf1E0bYkYs)
 [![just me fixing my mesh because i messed it up really really really bad](https://ytcards.demolab.com/?id=kKRjdCUPYOY&title=just+me+fixing+my+mesh+because+i+messed+it+up+really+really+really+bad&lang=en&timestamp=1711494995&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "just me fixing my mesh because i messed it up really really really bad")](https://www.youtube.com/watch?v=kKRjdCUPYOY)
