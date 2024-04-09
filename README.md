@@ -23,7 +23,7 @@
 [![fluid sim explosion #blender #fluidsimulation #blenderrender #mantaflow #blenderanimation #simulated](https://ytcards.demolab.com/?id=3F1GeQUyzF0&title=fluid+sim+explosion+%23blender+%23fluidsimulation+%23blenderrender+%23mantaflow+%23blenderanimation+%23simulated&lang=en&timestamp=1711116664&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "fluid sim explosion #blender #fluidsimulation #blenderrender #mantaflow #blenderanimation #simulated")](https://www.youtube.com/watch?v=3F1GeQUyzF0)
 [![wanna go grab a drink with me? #blender #render #fluid #fluidsimulation #blenderrender #animation](https://ytcards.demolab.com/?id=OuL4anlt3JQ&title=wanna+go+grab+a+drink+with+me%3F+%23blender+%23render+%23fluid+%23fluidsimulation+%23blenderrender+%23animation&lang=en&timestamp=1710793372&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "wanna go grab a drink with me? #blender #render #fluid #fluidsimulation #blenderrender #animation")](https://www.youtube.com/watch?v=OuL4anlt3JQ)
 [![blender fluid simulation animation](https://ytcards.demolab.com/?id=Gwa1KdfTa-w&title=blender+fluid+simulation+animation&lang=en&timestamp=1710700185&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "blender fluid simulation animation")](https://www.youtube.com/watch?v=Gwa1KdfTa-w)
-  <!-- END YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
 
 </p>
 
