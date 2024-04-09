@@ -13,6 +13,8 @@
       <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UC90Tar8Bpx3Q8UqpM8qxWZw?style=for-the-badge"/></a>
   <a href="https://www.youtube.com/channel/UC90Tar8Bpx3Q8UqpM8qxWZw?sub_confirmation=1">
       <img alt="youtube views" title="YouTube views" src="https://img.shields.io/youtube/channel/views/UC90Tar8Bpx3Q8UqpM8qxWZw?style=for-the-badge"/></a> 
+
+<p align="center">
   
   <!-- BEGIN YOUTUBE-CARDS -->
 [![split it logo #splitit #blender #sheepit #render #blenderanimation #animation #hardsurface #art](https://ytcards.demolab.com/?id=YEf1E0bYkYs&title=split+it+logo+%23splitit+%23blender+%23sheepit+%23render+%23blenderanimation+%23animation+%23hardsurface+%23art&lang=en&timestamp=1711859773&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "split it logo #splitit #blender #sheepit #render #blenderanimation #animation #hardsurface #art")](https://www.youtube.com/watch?v=YEf1E0bYkYs)
@@ -21,7 +23,8 @@
 [![fluid sim explosion #blender #fluidsimulation #blenderrender #mantaflow #blenderanimation #simulated](https://ytcards.demolab.com/?id=3F1GeQUyzF0&title=fluid+sim+explosion+%23blender+%23fluidsimulation+%23blenderrender+%23mantaflow+%23blenderanimation+%23simulated&lang=en&timestamp=1711116664&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "fluid sim explosion #blender #fluidsimulation #blenderrender #mantaflow #blenderanimation #simulated")](https://www.youtube.com/watch?v=3F1GeQUyzF0)
 [![wanna go grab a drink with me? #blender #render #fluid #fluidsimulation #blenderrender #animation](https://ytcards.demolab.com/?id=OuL4anlt3JQ&title=wanna+go+grab+a+drink+with+me%3F+%23blender+%23render+%23fluid+%23fluidsimulation+%23blenderrender+%23animation&lang=en&timestamp=1710793372&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "wanna go grab a drink with me? #blender #render #fluid #fluidsimulation #blenderrender #animation")](https://www.youtube.com/watch?v=OuL4anlt3JQ)
 [![blender fluid simulation animation](https://ytcards.demolab.com/?id=Gwa1KdfTa-w&title=blender+fluid+simulation+animation&lang=en&timestamp=1710700185&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "blender fluid simulation animation")](https://www.youtube.com/watch?v=Gwa1KdfTa-w)
-<!-- END YOUTUBE-CARDS -->
+  <!-- END YOUTUBE-CARDS -->
+
 </p>
 
 Hey
