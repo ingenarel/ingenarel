@@ -29,8 +29,10 @@
 
 Hey
 
-I'm ingenarel
+I'm ingenarel.
 
-I do different types of shit when i'm bored
+I do different types of shit when i'm bored.
+I know a little bit of 3d in blender, i do know some python, got a cs50p certificate if you want to know more about it:
+https://certificates.cs50.io/5875a998-6e4a-41ab-9c22-99564040c7e6.pdf?size=letter
 
 if you don't hear from me, then i probably kms
