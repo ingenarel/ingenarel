@@ -4,6 +4,8 @@
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ingenarel&theme=youtube-dark&border_radius=30&card_width=500&background=000000&stroke=FF0000&border=FF0000&ring=EB0000&fire=EB0000&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&dates=EBEBEB&excludeDaysLabel=EBEBEB" alt="GitHub Streak" /></a>
 </p>
 
+<img src="https://wakatime.com/share/@ingenarel/58b4bb4d-010a-480f-8b92-5eb87e6ad0e0.svg">
+
 ## Socials
 
 <p align="center"><b>Youtube</font></b></p>
