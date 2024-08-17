@@ -17,12 +17,12 @@
 <p align="center">
   
   <!-- BEGIN YOUTUBE-CARDS -->
+[![arch linux logo fluid simulation](https://ytcards.demolab.com/?id=8AYTNnNgX5k&title=arch+linux+logo+fluid+simulation&lang=en&timestamp=1723911281&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "arch linux logo fluid simulation")](https://www.youtube.com/watch?v=8AYTNnNgX5k)
 [![split it new backend test](https://ytcards.demolab.com/?id=HpYDQvv3QCY&title=split+it+new+backend+test&lang=en&timestamp=1723853979&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "split it new backend test")](https://www.youtube.com/watch?v=HpYDQvv3QCY)
 [![arch linux rice.](https://ytcards.demolab.com/?id=KXVA0BurqZo&title=arch+linux+rice.&lang=en&timestamp=1720536594&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "arch linux rice.")](https://www.youtube.com/watch?v=KXVA0BurqZo)
 [![arch linux custom animated wallpaper and bootup logo](https://ytcards.demolab.com/?id=iBhPaGOa25E&title=arch+linux+custom+animated+wallpaper+and+bootup+logo&lang=en&timestamp=1719851635&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "arch linux custom animated wallpaper and bootup logo")](https://www.youtube.com/watch?v=iBhPaGOa25E)
 [![cs50 final project demo](https://ytcards.demolab.com/?id=zYW4sei4UR8&title=cs50+final+project+demo&lang=en&timestamp=1718189870&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "cs50 final project demo")](https://www.youtube.com/watch?v=zYW4sei4UR8)
 [![what are you trying to say mark?](https://ytcards.demolab.com/?id=K_Ma63A_nNw&title=what+are+you+trying+to+say+mark%3F&lang=en&timestamp=1713137692&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "what are you trying to say mark?")](https://www.youtube.com/watch?v=K_Ma63A_nNw)
-[![split it logo #splitit #blender #sheepit #render #blenderanimation #animation #hardsurface #art](https://ytcards.demolab.com/?id=YEf1E0bYkYs&title=split+it+logo+%23splitit+%23blender+%23sheepit+%23render+%23blenderanimation+%23animation+%23hardsurface+%23art&lang=en&timestamp=1711859773&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "split it logo #splitit #blender #sheepit #render #blenderanimation #animation #hardsurface #art")](https://www.youtube.com/watch?v=YEf1E0bYkYs)
 <!-- END YOUTUBE-CARDS -->
 
 </p>
