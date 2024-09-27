@@ -32,7 +32,11 @@
 Hey
 
 I'm ingenarel.
+
 I do different types of shit when i'm bored.
+
 I mostly program for fun, but job would be cool tho.
+
 I know a little bit of 3d in blender, i do know some python, got a [cs50p certificate](https://certificates.cs50.io/5875a998-6e4a-41ab-9c22-99564040c7e6.pdf?size=letter) once.
+
 if you don't hear from me, then i probably kms
