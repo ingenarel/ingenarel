@@ -1,7 +1,9 @@
 # Ingenarel
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ingenarel&theme=youtube-dark&border_radius=30&card_width=500&background=000000&stroke=FF0000&border=FF0000&ring=EB0000&fire=EB0000&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&dates=EBEBEB&excludeDaysLabel=EBEBEB" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ingenarel&theme=youtube-dark&border_radius=30&card_width=500&background=000000&stroke=00ff77&border=FF00bb&ring=ff00bb&fire=EB0000&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&dates=EBEBEB&excludeDaysLabel=EBEBEB" alt="GitHub Streak" /></a>
+  
+  [![ingenarel's github commit graph](https://github-readme-activity-graph.vercel.app/graph?username=ingenarel&bg_color=000000&color=ffffff&line=ff00ae&point=ff00fb&title_color=ff2865&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
 
 ## Socials
