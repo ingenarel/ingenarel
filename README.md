@@ -6,6 +6,10 @@
   [![ingenarel's github commit graph](https://github-readme-activity-graph.vercel.app/graph?username=ingenarel&bg_color=000000&color=ffffff&line=ff00ae&point=ff00fb&title_color=ff2865&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ingenarel&layout=pie&langs_count=20&title_color=ff00ae&bg_color=000000&border_color=ff00ae&text_color=f4b0f3)](https://github.com/anuraghazra/github-readme-stats)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ingenarel&theme=2077)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ingenarel&theme=2077)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 ## Socials
 
 <p align="center"><b>Youtube</font></b></p>
