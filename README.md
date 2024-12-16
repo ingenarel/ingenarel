@@ -41,7 +41,7 @@
 
 <div align="center">
   <a href="https://discord.com/users/754525111800954980">
-    <img src="https://lanyard.cnrad.dev/api/754525111800954980?bg=000000&borderRadius=20px&hideActivity=true" alt="Discord Status">
+    <img src="https://lanyard.cnrad.dev/api/754525111800954980?bg=000000&borderRadius=20px" alt="Discord Status">
   </a>
 </div>
 
