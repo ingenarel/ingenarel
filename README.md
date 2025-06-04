@@ -2,13 +2,15 @@
 
 Hey
 
-I'm ingenarel.
+I'm ingenarel. I'm a neovim enthusiast and linux package contributor.
 
-I do different types of shit when i'm bored.
+I can automate your mum using shell scripts, or find your dad a girlfriend using regex :)
+
+Also I do different types of shit when i'm bored.
 
 I mostly program for fun, but job would be cool tho.
 
-if you don't hear from me, then i probably kms
+If you don't hear from me, then i probably kms
 
 <p align="center">
   <a href="https://git.io/streak-stats">
