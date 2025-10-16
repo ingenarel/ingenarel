@@ -1,3 +1,8 @@
+# I'm forced to currently stay offline for an uncertain amount of time.
+
+I don't have a job and a lot of family issues, i don't have the nessesary funds to pay the wifi bills. Sorry for any inconveniences.
+
+
 # Ingenarel (NeoJesus)
 
 Hey
