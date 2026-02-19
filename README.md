@@ -10,6 +10,8 @@ Also I do different types of shit when i'm bored.
 
 I mostly program for fun, but job would be cool tho.
 
+If you wanna support me, please consider giving donations to my patreon, every little bit helps as i'm a jobless idiot (if you got any NON AI BULLSHIT RELATED job for me please contact me too), and the money helps me with covering my wifi bills and the service charges for getting the money, because of my current situation, companies like patreon and payoneer take like 20-30% or more just for the service charges 
+
 If you don't hear from me, then i probably kms
 
 <p align="center">
