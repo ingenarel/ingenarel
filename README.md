@@ -1,3 +1,5 @@
+# I'm in the process of moving to codeberg for my main stuff
+
 # Ingenarel (NeoJesus)
 
 Hey
